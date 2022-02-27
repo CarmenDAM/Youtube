@@ -1,0 +1,8 @@
+.header-navbar {
+  background: linear-gradient(90deg, #ffffff 40%, rgb(107, 145, 202));
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+}
