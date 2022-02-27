@@ -4,6 +4,7 @@ import youtube from "./components/youtube";
 import BarraBusqueda from "./components/BarraBusqueda";
 import ListaVideos from "./components/ListaVideos";
 import VideoInformacion from "./components/VideoInformacion";
+import index from "./index";
 
 class App extends React.Component {
   state = {
